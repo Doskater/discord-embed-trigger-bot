@@ -1,0 +1,21 @@
+{
+  "triggers": [
+    {
+      "id": "market-alert",
+      "sourceBotId": "111111111111111111",
+      "phrase": "rare drop detected",
+      "response": {
+        "title": "Rare Drop Alert",
+        "description": "A matching third-party bot embed was detected. Check the original post before acting.",
+        "color": 5814783
+      },
+      "pingRoleId": "222222222222222222",
+      "reactionEmoji": "🚨",
+      "channelAllowlist": [
+        "333333333333333333",
+        "444444444444444444"
+      ],
+      "enabled": true
+    }
+  ]
+}

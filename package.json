@@ -1,0 +1,25 @@
+{
+  "name": "discord-embed-trigger-bot",
+  "version": "1.0.0",
+  "description": "Custom Discord bot that listens to third-party bot embeds and responds through configurable triggers.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "register": "node src/register-commands.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "embed-listener",
+    "slash-commands"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {}
+}
