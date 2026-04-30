@@ -6,6 +6,8 @@ Portfolio-ready Discord bot for a common server automation gap: listening to emb
 
 This project was built to match a real freelance brief for a "multi-trigger embed listener" where the critical requirement is that bot-authored messages must be processed, not ignored.
 
+![Portfolio demo screenshot](screenshots/portfolio-demo.png)
+
 ## Business Problem
 
 Many off-the-shelf Discord bots can react to user messages, but they often ignore other bots by default. Server owners who rely on market bots, game bots, alert bots, or webhook-style relay bots need automation that watches those embeds and produces server-specific follow-up actions.
