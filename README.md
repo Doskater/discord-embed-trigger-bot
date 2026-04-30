@@ -6,7 +6,7 @@ Portfolio-ready Discord bot for a common server automation gap: listening to emb
 
 This project was built to match a real freelance brief for a "multi-trigger embed listener" where the critical requirement is that bot-authored messages must be processed, not ignored.
 
-![Portfolio demo screenshot](screenshots/portfolio-demo.png)
+![Live Discord smoke test screenshot](screenshots/portfolio-demo.png)
 
 ## Business Problem
 
