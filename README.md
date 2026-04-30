@@ -1,12 +1,12 @@
 # Discord Embed Trigger Bot
 
+![Live Discord smoke test screenshot](screenshots/live-discord-smoke-test-blurred.png)
+
 ## Overview
 
 Portfolio-ready Discord bot for a common server automation gap: listening to embeds posted by third-party bots and responding when configured phrases appear. It supports multiple independent triggers, each with its own source bot id, phrase, reply embed, role ping, reaction emoji, and channel allowlist.
 
 This project was built to match a real freelance brief for a "multi-trigger embed listener" where the critical requirement is that bot-authored messages must be processed, not ignored.
-
-![Live Discord smoke test screenshot](screenshots/portfolio-demo.png)
 
 ## Business Problem
 
